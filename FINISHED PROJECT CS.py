@@ -424,5 +424,5 @@ while True:
                               "          ||                           THANK YOU                  ||\n"
                               "          ##======================================================##\n"
                               "\n")
-                     print("***DEVELOPED BY SADIQ SALAM, YEYATI PRASHER, YASH BILTORIA XII-A 2021-22***")
+                     print("***DEVELOPED BY SADIQ SALAM XII-A 2021-22***")
                      break
